@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="4">
+<author>kart</author>
+<date>2012-02-23T05:04:57.131358Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts</path>
+</paths>
+</logentry>
+<logentry
+   revision="5">
+<author>kart</author>
+<date>2012-02-23T05:05:05.492977Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/.settings</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/.classpath</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/.project</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/deleteme/HelloWorld.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/deleteme</path>
+</paths>
+</logentry>
+<logentry
+   revision="6">
+<author>sazua</author>
+<date>2012-02-23T05:28:58.579740Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/deleteme/HelloWorld.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="7">
+<author>rwhite3</author>
+<date>2012-02-23T18:04:59.157535Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/deleteme/HelloWorld.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="8">
+<author>sazua</author>
+<date>2012-02-23T18:12:08.733251Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/deleteme/HelloWorld.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="9">
+<author>rwhite3</author>
+<date>2012-02-28T17:11:54.019653Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/deleteme/HelloWorld.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="10">
+<author>rwhite3</author>
+<date>2012-02-28T17:14:26.213521Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/deleteme/HelloWorld.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="11">
+<author>hskrase</author>
+<date>2012-02-28T17:33:36.244034Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="12">
+<author>rwhite3</author>
+<date>2012-02-28T17:37:38.763220Z</date>
+<paths>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/src/deleteme</path>
+</paths>
+</logentry>
+<logentry
+   revision="13">
+<author>rwhite3</author>
+<date>2012-02-28T17:41:14.551869Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/ProcessImage.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/ProcessImageImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="14">
+<author>rwhite3</author>
+<date>2012-02-28T17:50:13.953406Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ProcessImageImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="15">
+<author>rwhite3</author>
+<date>2012-02-28T17:52:39.495362Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ProcessImageImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="16">
+<author>akumm</author>
+<date>2012-02-28T17:53:44.340614Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilder.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="17">
+<author>rwhite3</author>
+<date>2012-02-28T17:57:00.497110Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ProcessImageImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="18">
+<author>rwhite3</author>
+<date>2012-02-28T18:00:16.557097Z</date>
+<paths>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/src/handwrittenfont/ProcessImage.java</path>
+<path
+   kind=""
+   copyfrom-path="/trunk/HandwrittenFonts/src/handwrittenfont/ProcessImage.java"
+   copyfrom-rev="16"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessor.java</path>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/src/handwrittenfont/ProcessImageImpl.java</path>
+<path
+   kind=""
+   copyfrom-path="/trunk/HandwrittenFonts/src/handwrittenfont/ProcessImageImpl.java"
+   copyfrom-rev="17"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="19">
+<author>sazua</author>
+<date>2012-02-28T18:06:28.031013Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/ControlPoint.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGenerator.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/BezierCurve.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="20">
+<author>hskrase</author>
+<date>2012-02-28T18:12:04.049756Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/GridBagLayoutDemo.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="21">
+<author>rwhite3</author>
+<date>2012-02-28T18:15:30.511052Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessor.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="22">
+<author>rwhite3</author>
+<date>2012-02-28T23:16:35.216982Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessor.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="23">
+<author>rwhite3</author>
+<date>2012-02-29T18:24:14.467264Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="24">
+<author>rwhite3</author>
+<date>2012-03-01T17:06:16.958343Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessor.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="25">
+<author>rwhite3</author>
+<date>2012-03-01T19:28:55.728214Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="26">
+<author>sazua</author>
+<date>2012-03-02T17:01:51.972212Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ControlPoint.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGenerator.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/BezierCurve.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="27">
+<author>rwhite3</author>
+<date>2012-03-02T21:07:20.498287Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontGrid.jpeg</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessor.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="29">
+<author>hskrase</author>
+<date>2012-03-03T06:43:44.144847Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/Bezier.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="30">
+<author>sazua</author>
+<date>2012-03-05T01:14:21.899692Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/BezierCurveImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ControlPoint.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGenerator.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/ControlPointImpl.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/Letter.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessor.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/BezierCurve.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="31">
+<author>rwhite3</author>
+<date>2012-03-05T17:34:55.701988Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessor.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="32">
+<author>rwhite3</author>
+<date>2012-03-05T18:31:09.339639Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Letter.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessor.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="33">
+<author>hskrase</author>
+<date>2012-03-06T16:53:48.636520Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Letter.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="34">
+<author>hskrase</author>
+<date>2012-03-06T17:13:42.227551Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Letter.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="35">
+<author>hskrase</author>
+<date>2012-03-06T17:16:03.167772Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Letter.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="36">
+<author>sazua</author>
+<date>2012-03-06T17:50:33.702127Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="37">
+<author>hskrase</author>
+<date>2012-03-06T17:51:22.821184Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/CurvePanel.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="38">
+<author>rwhite3</author>
+<date>2012-03-06T17:54:42.226628Z</date>
+<paths>
+<path
+   kind=""
+   copyfrom-path="/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java"
+   copyfrom-rev="37"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessor.java</path>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessorImpl.java</path>
+<path
+   kind=""
+   copyfrom-path="/trunk/HandwrittenFonts/src/handwrittenfont/ImageProcessor.java"
+   copyfrom-rev="37"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessor.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="39">
+<author>hskrase</author>
+<date>2012-03-06T18:01:09.273160Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="40">
+<author>rwhite3</author>
+<date>2012-03-06T18:02:54.392704Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessor.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="41">
+<author>rwhite3</author>
+<date>2012-03-06T22:46:35.641325Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Letter.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="42">
+<author>rwhite3</author>
+<date>2012-03-19T04:40:28.577948Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="43">
+<author>rwhite3</author>
+<date>2012-03-22T20:21:03.688626Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="44">
+<author>rwhite3</author>
+<date>2012-03-24T23:29:37.184614Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/TrimWhite.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="45">
+<author>rwhite3</author>
+<date>2012-03-25T00:23:05.362622Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/TrimWhite.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessor.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/GridTrimmer.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="46">
+<author>sazua</author>
+<date>2012-03-25T02:34:51.097733Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGenerator.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessor.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="47">
+<author>sazua</author>
+<date>2012-03-25T18:27:46.165225Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/TrimWhite.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Letter.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="48">
+<author>sazua</author>
+<date>2012-03-26T00:44:03.014250Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="49">
+<author>sazua</author>
+<date>2012-03-27T04:26:29.014603Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="50">
+<author>sazua</author>
+<date>2012-03-28T02:03:20.622759Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="51">
+<author>sazua</author>
+<date>2012-03-29T04:13:27.616540Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGenerator.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessor.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="52">
+<author>hskrase</author>
+<date>2012-03-29T04:55:03.795004Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/hunter8.jpg</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/src/handwrittenfont/CurvePanel.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="53">
+<author>sazua</author>
+<date>2012-03-29T15:27:35.444208Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessor.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="54">
+<author>hskrase</author>
+<date>2012-03-29T17:06:15.581783Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/BezierCurveImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ControlPointImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="55">
+<author>akumm</author>
+<date>2012-03-29T20:07:47.022707Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilder.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="56">
+<author>akumm</author>
+<date>2012-03-29T20:08:50.013599Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="57">
+<author>hskrase</author>
+<date>2012-03-29T22:24:35.150066Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/testGrid.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="58">
+<author>hskrase</author>
+<date>2012-03-30T02:39:52.641651Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFont.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="59">
+<author>hskrase</author>
+<date>2012-03-30T04:00:10.674112Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFont.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="60">
+<author>sazua</author>
+<date>2012-03-30T04:16:00.961675Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGenerator.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessor.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/testGrid.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="61">
+<author>sazua</author>
+<date>2012-03-30T04:25:53.709847Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="62">
+<author>sazua</author>
+<date>2012-03-30T04:28:11.196506Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="63">
+<author>akumm</author>
+<date>2012-03-30T04:41:07.577823Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="64">
+<author>rwhite3</author>
+<date>2012-03-30T05:08:53.086308Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/TrimWhite.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="65">
+<author>hskrase</author>
+<date>2012-03-30T05:10:01.104352Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFont.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="66">
+<author>sazua</author>
+<date>2012-03-30T05:32:36.176411Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="67">
+<author>rwhite3</author>
+<date>2012-03-30T06:37:38.927257Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="68">
+<author>rwhite3</author>
+<date>2012-03-30T06:44:52.904594Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="69">
+<author>rwhite3</author>
+<date>2012-03-30T06:46:06.751894Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="70">
+<author>rwhite3</author>
+<date>2012-03-30T06:51:32.636133Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="71">
+<author>rwhite3</author>
+<date>2012-03-30T06:56:12.123649Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="72">
+<author>sazua</author>
+<date>2012-03-30T07:02:13.339183Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="73">
+<author>sazua</author>
+<date>2012-03-30T07:15:22.477514Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="74">
+<author>sazua</author>
+<date>2012-03-30T07:36:30.654871Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/BezierCurveImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/BezierCurve.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="75">
+<author>hskrase</author>
+<date>2012-03-30T07:49:32.754382Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFont.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="76">
+<author>hskrase</author>
+<date>2012-03-30T08:55:19.494509Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFont.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/testGrid.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="77">
+<author>hskrase</author>
+<date>2012-03-30T08:55:53.739720Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/.settings/org.eclipse.ltk.core.refactoring.prefs</path>
+</paths>
+</logentry>
+<logentry
+   revision="78">
+<author>rwhite3</author>
+<date>2012-03-30T15:06:06.447717Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="79">
+<author>hskrase</author>
+<date>2012-03-30T16:31:44.062663Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="80">
+<author>sazua</author>
+<date>2012-03-30T16:58:45.363798Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/testGrid.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="81">
+<author>hskrase</author>
+<date>2012-03-30T17:17:33.516576Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/BezierCurveImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="82">
+<author>akumm</author>
+<date>2012-03-30T17:18:03.066917Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="83">
+<author>sazua</author>
+<date>2012-03-30T17:26:30.686228Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/testGrid.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="84">
+<author>sazua</author>
+<date>2012-03-30T17:47:16.517290Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/testGrid.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="85">
+<author>sazua</author>
+<date>2012-03-30T17:52:45.641521Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/testGrid.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="86">
+<author>hskrase</author>
+<date>2012-03-30T19:08:54.812214Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilder.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFont.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/font.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="87">
+<author>akumm</author>
+<date>2012-03-30T19:35:31.100266Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="88">
+<author>hskrase</author>
+<date>2012-03-30T22:02:04.150013Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilder.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFont.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="89">
+<author>hskrase</author>
+<date>2012-03-31T02:08:41.512705Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFont.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="101">
+<author>sazua</author>
+<date>2012-04-30T01:10:33.945802Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="102">
+<author>hskrase</author>
+<date>2012-04-30T01:26:50.517875Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="103">
+<author>sazua</author>
+<date>2012-05-02T02:02:57.435186Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="104">
+<author>sazua</author>
+<date>2012-05-02T02:03:50.346748Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="106">
+<author>sazua</author>
+<date>2012-05-02T02:58:51.226151Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="107">
+<author>sazua</author>
+<date>2012-05-02T03:00:01.986560Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/blah2.jpeg</path>
+</paths>
+</logentry>
+<logentry
+   revision="108">
+<author>hskrase</author>
+<date>2012-05-02T03:13:43.573995Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="109">
+<author>sazua</author>
+<date>2012-05-02T04:53:46.428415Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="111">
+<author>sazua</author>
+<date>2012-05-02T04:54:13.446715Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/test2.jpeg</path>
+</paths>
+</logentry>
+<logentry
+   revision="112">
+<author>sazua</author>
+<date>2012-05-02T05:45:57.910169Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="113">
+<author>sazua</author>
+<date>2012-05-02T05:47:53.881750Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="114">
+<author>sazua</author>
+<date>2012-05-02T05:52:59.687873Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="115">
+<author>sazua</author>
+<date>2012-05-02T06:02:29.723125Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="118">
+<author>rwhite3</author>
+<date>2012-05-02T07:13:12.405743Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/TrimWhite.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="119">
+<author>rwhite3</author>
+<date>2012-05-02T07:13:43.759913Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/Thresholder.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="120">
+<author>rwhite3</author>
+<date>2012-05-02T07:14:03.073361Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridTrimmer.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="121">
+<author>hskrase</author>
+<date>2012-05-02T07:14:16.588338Z</date>
+<paths>
+<path
+   kind=""
+   copyfrom-path="/branches/GUI/src/handwrittenfont/HandwrittenFontController.java"
+   copyfrom-rev="120"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontController.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="122">
+<author>rwhite3</author>
+<date>2012-05-02T07:14:31.312133Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/GridProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="123">
+<author>hskrase</author>
+<date>2012-05-02T07:15:20.084695Z</date>
+<paths>
+<path
+   kind=""
+   copyfrom-path="/branches/GUI/src/handwrittenfont/HandwrittenFontProcessView.java"
+   copyfrom-rev="122"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontProcessView.java</path>
+<path
+   kind=""
+   copyfrom-path="/branches/GUI/src/handwrittenfont/HandwrittenFontPreviewView.java"
+   copyfrom-rev="122"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontPreviewView.java</path>
+<path
+   kind=""
+   copyfrom-path="/branches/GUI/src/handwrittenfont/HandwrittenFontRootView.java"
+   copyfrom-rev="122"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontRootView.java</path>
+<path
+   kind=""
+   copyfrom-path="/branches/GUI/src/handwrittenfont/HandwrittenFontLogger.java"
+   copyfrom-rev="122"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontLogger.java</path>
+<path
+   kind=""
+   copyfrom-path="/branches/GUI/src/handwrittenfont/HandwrittenFontDebugView.java"
+   copyfrom-rev="122"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontDebugView.java</path>
+<path
+   kind=""
+   copyfrom-path="/branches/GUI/src/handwrittenfont/HandWrittenFontMVC.java"
+   copyfrom-rev="122"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/HandWrittenFontMVC.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="124">
+<author>hskrase</author>
+<date>2012-05-02T07:17:36.065536Z</date>
+<paths>
+<path
+   kind=""
+   copyfrom-path="/branches/GUI/src/handwrittenfont/ImageFilter.java"
+   copyfrom-rev="123"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/ImageFilter.java</path>
+<path
+   kind=""
+   copyfrom-path="/branches/GUI/src/handwrittenfont/DrawPanel.java"
+   copyfrom-rev="123"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/DrawPanel.java</path>
+<path
+   kind=""
+   copyfrom-path="/branches/GUI/src/handwrittenfont/ImagePreview.java"
+   copyfrom-rev="123"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/ImagePreview.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="125">
+<author>hskrase</author>
+<date>2012-05-02T07:18:29.707314Z</date>
+<paths>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFont.java</path>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/src/handwrittenfont/Gui.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="126">
+<author>hskrase</author>
+<date>2012-05-02T08:39:40.539244Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontPreviewView.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/TrimWhite.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DrawPanel.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontRootView.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontController.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="127">
+<author>sazua</author>
+<date>2012-05-02T17:36:06.223391Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/realTest.jpeg</path>
+</paths>
+</logentry>
+<logentry
+   revision="128">
+<author>hskrase</author>
+<date>2012-05-02T23:30:47.597080Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/CurveGeneratorImpl.java</path>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontController.java</path>
+<path
+   kind=""
+   copyfrom-path="/trunk/HandwrittenFonts/src/handwrittenfont/DebugFrame.java"
+   copyfrom-rev="127"
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/DemoApp.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="129">
+<author>akumm</author>
+<date>2012-05-02T23:48:56.342870Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="130">
+<author>akumm</author>
+<date>2012-05-02T23:50:47.359093Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/check</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ControlPoint.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ControlPointImpl.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/boss.txt</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/test3.txt</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/boss</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/check.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="131">
+<author>akumm</author>
+<date>2012-05-03T01:33:53.102224Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="132">
+<author>akumm</author>
+<date>2012-05-03T01:48:54.882500Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/test3.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="133">
+<author>akumm</author>
+<date>2012-05-03T02:12:50.749928Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/test6.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="134">
+<author>hskrase</author>
+<date>2012-05-03T02:25:41.333846Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DemoApp.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="135">
+<author>hskrase</author>
+<date>2012-05-03T02:25:46.165964Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontPreviewView.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="136">
+<author>hskrase</author>
+<date>2012-05-03T02:25:49.587940Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontController.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="137">
+<author>akumm</author>
+<date>2012-05-03T02:26:51.906300Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="138">
+<author>sazua</author>
+<date>2012-05-03T02:30:47.397247Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/LetterProcessorImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="139">
+<author>akumm</author>
+<date>2012-05-03T02:35:51.773066Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="140">
+<author>akumm</author>
+<date>2012-05-03T02:45:26.220024Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="141">
+<author>hskrase</author>
+<date>2012-05-03T02:55:42.926429Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontController.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="142">
+<author>hskrase</author>
+<date>2012-05-03T02:56:11.108706Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontPreviewView.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="143">
+<author>hskrase</author>
+<date>2012-05-03T02:56:30.171438Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontRootView.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="144">
+<author>rwhite3</author>
+<date>2012-05-03T02:57:26.955793Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/photo1.jpeg</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/grid.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="145">
+<author>hskrase</author>
+<date>2012-05-03T03:00:03.415394Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontController.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="146">
+<author>hskrase</author>
+<date>2012-05-03T04:00:07.829706Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/BrowserTesting.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="147">
+<author>akumm</author>
+<date>2012-05-03T04:26:37.176879Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DemoApp.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="148">
+<author>hskrase</author>
+<date>2012-05-03T04:31:30.721603Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontPreviewView.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontRootView.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontController.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandWrittenFontMVC.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="149">
+<author>akumm</author>
+<date>2012-05-03T04:54:45.405681Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/ControlPointImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/test3.txt</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/test4.txt</path>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/src/handwrittenfont/test6.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="150">
+<author>hskrase</author>
+<date>2012-05-03T05:05:09.202763Z</date>
+<paths>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/check</path>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/boss.txt</path>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/boss</path>
+<path
+   kind=""
+   action="D">/trunk/HandwrittenFonts/check.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="151">
+<author>akumm</author>
+<date>2012-05-03T05:13:00.919554Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/test4.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="152">
+<author>akumm</author>
+<date>2012-05-03T06:28:06.172187Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="153">
+<author>sazua</author>
+<date>2012-05-03T08:12:59.772537Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="154">
+<author>hskrase</author>
+<date>2012-05-03T08:29:45.187567Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DrawPanel.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="155">
+<author>hskrase</author>
+<date>2012-05-03T08:29:55.911961Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/DemoApp.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="156">
+<author>sazua</author>
+<date>2012-05-03T08:37:19.558599Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="157">
+<author>hskrase</author>
+<date>2012-05-03T14:21:34.435430Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/FontBuilderImpl.java</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/DemoApp.jar</path>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/HandWrittenFontGenerator.jar</path>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandWrittenFontMVC.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="158">
+<author>sazua</author>
+<date>2012-05-03T15:01:19.703476Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/HandWrittenFontGenerator.jar</path>
+</paths>
+</logentry>
+<logentry
+   revision="159">
+<author>hskrase</author>
+<date>2012-05-04T04:23:33.080106Z</date>
+<paths>
+<path
+   kind=""
+   action="A">/trunk/HandwrittenFonts/src/handwrittenfont/FileTesting.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="160">
+<author>hskrase</author>
+<date>2012-05-06T02:05:21.503405Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontRootView.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="161">
+<author>hskrase</author>
+<date>2012-05-06T20:10:36.640270Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontController.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="162">
+<author>hskrase</author>
+<date>2012-05-06T20:10:43.639817Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontPreviewView.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="163">
+<author>hskrase</author>
+<date>2012-05-06T20:10:55.400446Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontRootView.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="164">
+<author>hskrase</author>
+<date>2012-05-06T20:58:48.884117Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontController.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="165">
+<author>hskrase</author>
+<date>2012-05-06T20:58:57.911769Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontRootView.java</path>
+</paths>
+</logentry>
+<logentry
+   revision="166">
+<author>hskrase</author>
+<date>2012-05-06T21:22:09.944212Z</date>
+<paths>
+<path
+   kind=""
+   action="M">/trunk/HandwrittenFonts/src/handwrittenfont/HandwrittenFontController.java</path>
+</paths>
+</logentry>
+</log>
